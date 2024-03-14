@@ -1,0 +1,29 @@
+.block {
+  width: 25%;
+  min-height: 200px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.title {
+  font-size: 32px;
+  text-align: center;
+  margin: 20px 0;
+}
+.mealTitle {
+  text-align: center;
+  cursor: pointer;
+}
+.imgWrapper {
+  max-width: 200px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+.img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin: 0 auto;
+}

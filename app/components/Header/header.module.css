@@ -1,0 +1,18 @@
+.root {
+  height: 100px;
+  width: 100vw;
+  background: #f4a460;
+  color: white;
+}
+.wrapper {
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.link{
+ cursor: pointer;
+ list-style-type:  none;
+ font-size: 21px;
+}
